@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: test_Atlas 1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 3111529117376569244, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: 3642975709579811299, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -8739234918735817805, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -7452042138114645575, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: 8085883232161285873, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -6371334149941391627, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -4237969937621908858, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -5497834720869146112, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: 1251866183900274729, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: 1021692886394707460, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -1667615759649378786, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -5743890165099084474, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -633783235075140722, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: -1133541058126570795, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: 604817083419858758, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    - {fileID: 3787004831820152890, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -5497834720869146112, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 604817083419858758, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 3642975709579811299, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -7452042138114645575, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 3111529117376569244, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -1133541058126570795, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -633783235075140722, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -6371334149941391627, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -5743890165099084474, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -8739234918735817805, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 8085883232161285873, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 3787004831820152890, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 1251866183900274729, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -4237969937621908858, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: 1021692886394707460, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  - {fileID: -1667615759649378786, guid: 020c0064696e1a8479f4acd7c852ca33, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - tileset-1_32_96_16_16
+  - tileset-1_80_80_16_16
+  - tileset-1_0_96_16_16
+  - tileset-1_16_80_16_16
+  - tileset-1_0_80_16_16
+  - tileset-1_64_112_16_16
+  - tileset-1_64_96_16_16
+  - tileset-1_16_112_16_16
+  - tileset-1_64_80_16_16
+  - tileset-1_0_112_16_16
+  - tileset-1_16_96_16_16
+  - tileset-1_80_96_16_16
+  - tileset-1_32_112_16_16
+  - tileset-1_32_80_16_16
+  - tileset-1_48_80_16_16
+  - tileset-1_48_112_16_16
+  m_RenderDataMap: {}
+  m_Tag: test_Atlas 1
+  m_IsVariant: 0

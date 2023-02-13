@@ -1,0 +1,26 @@
+{
+	"identifier": "Level_9",
+	"uniqueIdentifer": "fe207ff0-7820-11ed-bde7-f5d1d51ec8fa",
+	"x": 128,
+	"y": -128,
+	"width": 128,
+	"height": 128,
+	"bgColor": "#696A79",
+	"neighbourLevels": [
+		{
+			"levelIid": "e5ec5d02-7820-11ed-bde7-871d5df327ff",
+			"dir": "w"
+		},
+		{
+			"levelIid": "03e47b82-7820-11ed-bde7-85b0a96f43b5",
+			"dir": "n"
+		}
+	],
+	"customFields" : {},
+	"layers": [
+		"Ground.png",
+		"Tiles.png",
+		"IntGrid.png"
+	],
+	"entities" : {}
+}
